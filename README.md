@@ -1,21 +1,16 @@
-## VCS (Version Control System)
-Currently, I understand it is common to use a VCS such as Git, Github. The repo archives useful info.  
-
-### Happy Git and Github for R Users  
-Jenny Brian - Happy Git and Github: https://happygitwithr.com/  
-
-### Git for Humans
-https://speakerdeck.com/alicebartlett/git-for-humans
-
-## Other tips  
-### RStudio IDE Cheatsheets  
-- Pipe operator: Ctrl + Shift + M  
-- Replace all relevant vars : ctrl/cmd + alt + shift + M   
-https://www.rstudio.com/wp-content/uploads/2016/01/rstudio-IDE-cheatsheet.pdf  
+## R packages
 
 ### ggplot2 extention  
-hrbrthemes : Additional Themes and Theme Components   
+`hrbrthemes` : Additional Themes and Theme Components   
 https://github.com/kojimizu/hrbrthemes  
 
 ### Email extention package
+The `blasutula` package was covered in the [RStudio::conf 2018].   
 `blastula`: https://github.com/rich-iannone/blastula  
+RStudio blog: https://resources.rstudio.com/rstudio-blog/rstudio-connect-1-6-6-custom-emails
+### Table in HTML  
+`kable` and `kableExtra` packages for generating customized tables in HTML file.  
+https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html
+
+## Other updates  
+### 
