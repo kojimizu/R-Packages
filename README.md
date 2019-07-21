@@ -1,5 +1,12 @@
 ## R packages
 
+### Purrr 
+Iteration package `purrr` tutorial by Jenny Brian  
+Site: https://jennybc.github.io/purrr-tutorial/index.html  
+
+### Tidy eval
+Bookdown: https://tidyeval.tidyverse.org/  
+
 ### ggplot2 extention  
 `hrbrthemes` : Additional Themes and Theme Components   
 https://github.com/kojimizu/hrbrthemes  
@@ -13,7 +20,7 @@ RStudio blog: https://resources.rstudio.com/rstudio-blog/rstudio-connect-1-6-6-c
 https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html
 
 ## Other updates  
-### RStudio conf::2018
+### RStudio conf::2019
 
 #### Workshop materials  
 https://blog.rstudio.com/2019/02/06/rstudio-conf-2019-workshops/  
