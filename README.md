@@ -19,7 +19,8 @@ RStudio blog: https://resources.rstudio.com/rstudio-blog/rstudio-connect-1-6-6-c
 `kable` and `kableExtra` packages for generating customized tables in HTML file.  
 https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html
 
-### `skimr`
+### skimr
+`skimr` package for data 
 https://ropensci.github.io/skimr/index.html  
 
 ### `usethis`  
