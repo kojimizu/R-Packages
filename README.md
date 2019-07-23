@@ -28,8 +28,9 @@ https://www.tidyverse.org/articles/2017/11/usethis-1.0.0/
 ### `prjmgr`
 https://emilyriederer.github.io/projmgr/  
 
-### Reproducible analytics supported
-Repo: https://github.com/karthik/rstudio2019  
+### Reproducible analytics guide
+Great Repo by RopenSci: https://github.com/karthik/rstudio2019  
+Material from British Ecological Society: https://www.britishecologicalsociety.org/publications/guides-to/  
 
 ## Other updates  
 ### RStudio conf::2019 - Workshop materials
