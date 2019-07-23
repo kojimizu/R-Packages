@@ -43,6 +43,13 @@ devtools::install_github("gadenbuie/countdown")
 H2o tutorial in UseR2019. 
 Repo: https://github.com/juba/rmdformats  
 
+### CV 
+the package for CV generation by `rmd`. 
+```
+install.packages("ropenscilabs/vitae")
+devtools::install_github("ropenscilabs/vitae")
+```
+
 ## Other updates  
 ### RStudio conf::2019 - Workshop materials
 https://blog.rstudio.com/2019/02/06/rstudio-conf-2019-workshops/  
