@@ -36,3 +36,9 @@ Repo: https://github.com/karthik/rstudio2019
 https://blog.rstudio.com/2019/02/06/rstudio-conf-2019-workshops/  
 ### UseR 2019 
 Please refer this [repository]().
+
+### countdown 
+countdown package by `gadenbuie/countdown`.
+```
+devtools::install_github("gadenbuie/countdown")
+```
