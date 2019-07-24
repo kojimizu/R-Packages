@@ -1,6 +1,6 @@
 ## R packages  
 ### Purrr 
-Iteration package `purrr` tutorial by Jenny Brian  
+Iteration package `purrr` tutorial by Jenny Brian. The `purrr` has new functions 
 Site: https://jennybc.github.io/purrr-tutorial/index.html  
 
 ### Tidy eval
