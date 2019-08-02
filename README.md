@@ -1,4 +1,10 @@
 ## R packages  
+
+### Text2vec
+`Text2vec`
+- Document similarity: http://text2vec.org/similarity.html#cosine_similarity_with_lsa  
+- Text vectorization: https://cran.r-project.org/web/packages/text2vec/vignettes/text-vectorization.html  
+
 ### Purrr 
 Iteration package `purrr` tutorial by Jenny Brian. The `purrr` has new functions 
 Site: https://jennybc.github.io/purrr-tutorial/index.html  
