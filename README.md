@@ -29,13 +29,14 @@ https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_ht
 `skimr` package for data 
 https://ropensci.github.io/skimr/index.html  
 
-### `usethis`  
+### usethis
+`usethis` package in tidyverse developed by Jenny Brian  
 https://www.tidyverse.org/articles/2017/11/usethis-1.0.0/  
 
-### `prjmgr`
+### prjmgr
 https://emilyriederer.github.io/projmgr/  
 
-### `Datapasta`
+### Datapasta
 simple data load as tibble: datapasta + reprex   
 https://github.com/MilesMcBain/datapasta
 
