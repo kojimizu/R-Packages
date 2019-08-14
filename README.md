@@ -40,6 +40,9 @@ https://emilyriederer.github.io/projmgr/
 simple data load as tibble: datapasta + reprex   
 https://github.com/MilesMcBain/datapasta
 
+### AlignAssign
+Repohttps://github.com/seasmith/AlignAssign  
+
 ### countdown 
 countdown package by `gadenbuie/countdown`.
 ```
