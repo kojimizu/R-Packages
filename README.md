@@ -16,6 +16,10 @@ Bookdown: https://tidyeval.tidyverse.org/
 `hrbrthemes` : Additional Themes and Theme Components   
 https://github.com/kojimizu/hrbrthemes  
 
+### h3forr  
+Uber H3 viz by polygon  
+http://estrellita.hatenablog.com/entry/2019/05/01/235406  
+
 ### Email extention package
 The `blasutula` package was covered in the [RStudio::conf 2018].   
 `blastula`: https://github.com/rich-iannone/blastula  
